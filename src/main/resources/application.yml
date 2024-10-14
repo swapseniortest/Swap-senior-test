@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: issues-recovery
+
+
+logging:
+  level:
+    root: INFO
+
+scheduler:
+  webhook-delay: 86400
+
+external-apis:
+
+  github:
+
+#    Github não deixa commitar
+#    user: "swapseniortest"
+#    token: "github pat 11BL6HWAA0Ar0IlTKlqiDe RQslCndDWcXS4APMJu3RTpwOxthqZ1lJLEZjLS3qpD5FFOVUCROVWiENlCg"
+
+    host: "https://api.github.com/repos/"
+    values-per-pages: 100
+    page-number: 1
+    paths:
+      github-issues-api: "issues"
+      github-commits-api: "commits"
+
+  webhook-site:
+    host: "https://webhook.site/"
+    id: "2bc3a218-9c8a-4ca7-90dd-bbdda7afe2cc"
