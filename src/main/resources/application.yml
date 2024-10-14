@@ -8,7 +8,7 @@ logging:
     root: INFO
 
 scheduler:
-  webhook-delay: 86400
+  webhook-delay: ${WEBHOOK_DELAY:86400}
 
 external-apis:
 
@@ -19,12 +19,12 @@ external-apis:
 #    token: "github pat 11BL6HWAA0Ar0IlTKlqiDe RQslCndDWcXS4APMJu3RTpwOxthqZ1lJLEZjLS3qpD5FFOVUCROVWiENlCg"
 
     host: "https://api.github.com/repos/"
-    values-per-pages: 100
-    page-number: 1
+    values-per-pages: ${VALUE_PER_PAGES:100}
+    page-number: ${PAGES:1}
     paths:
       github-issues-api: "issues"
       github-commits-api: "commits"
 
   webhook-site:
     host: "https://webhook.site/"
-    id: "2bc3a218-9c8a-4ca7-90dd-bbdda7afe2cc"
+    id: ${WEBHOOK_SITE_ID:2bc3a218-9c8a-4ca7-90dd-bbdda7afe2cc}
