@@ -1,0 +1,1802 @@
+[
+    {
+      "sha": "817d3a0018dd07ba3a829650aec63dee36963698",
+      "commit": {
+        "author": {
+          "name": "github-actions[bot]",
+          "email": "41898282+github-actions[bot]@users.noreply.github.com",
+          "date": "2024-10-13T15:36:04",
+          "login": null
+        },
+        "message": "chore: update roadmap content json (#7446)\n\nCo-authored-by: kamranahmedse <4921183+kamranahmedse@users.noreply.github.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "github-actions[bot]"
+      }
+    },
+    {
+      "sha": "2bff8d8303e6129802cc94643416acf9c5c0a688",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-12T12:11:54",
+          "login": null
+        },
+        "message": "Update dependencies"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "d7974de7883f4f20b05f113a4bfef8ac4ca8bd44",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-12T12:02:40",
+          "login": null
+        },
+        "message": "Downgrade dependencie"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "3675de800ec404c9e085912adc2f8a167601064f",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-12T11:37:29",
+          "login": null
+        },
+        "message": "Upgrade dependencies"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "6d16cb7564da964dbbe4749c1aa071a1f97c35d8",
+      "commit": {
+        "author": {
+          "name": "Shivam Mittal",
+          "email": "89904835+CodeGeek04@users.noreply.github.com",
+          "date": "2024-10-12T11:19:41",
+          "login": null
+        },
+        "message": "Fixed typo in automated-backups.md (#7447)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "CodeGeek04"
+      }
+    },
+    {
+      "sha": "25e51eec376b151c9b23afb91767fbcd3d722e15",
+      "commit": {
+        "author": {
+          "name": "Mehul",
+          "email": "60281183+sociallyencrypted@users.noreply.github.com",
+          "date": "2024-10-11T15:40:37",
+          "login": null
+        },
+        "message": "fix: Broken Link in React Roadmap -> Component Life Cycle (#7439)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "sociallyencrypted"
+      }
+    },
+    {
+      "sha": "e967f5a183b43c20550394cdd1289f2a13353173",
+      "commit": {
+        "author": {
+          "name": "github-actions[bot]",
+          "email": "41898282+github-actions[bot]@users.noreply.github.com",
+          "date": "2024-10-11T15:39:48",
+          "login": null
+        },
+        "message": "chore: update roadmap content json (#7435)\n\nCo-authored-by: kamranahmedse <4921183+kamranahmedse@users.noreply.github.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "github-actions[bot]"
+      }
+    },
+    {
+      "sha": "b509c316522b8eb3b6ad3ae11d8eab1f2193e49f",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-11T00:42:29",
+          "login": null
+        },
+        "message": "Update dependencies"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "02d60e8eca197f555050f126207a1f34139989f3",
+      "commit": {
+        "author": {
+          "name": "Sivarajakani",
+          "email": "64630211+sivarajakani@users.noreply.github.com",
+          "date": "2024-10-11T11:13:24",
+          "login": null
+        },
+        "message": "feat: add a YouTube video link to Rust memory management (#7438)\n\n* Added a YouTube video link to Rust memory management\r\n\r\nIn this video, he provides a clear explanation of Rust's ownership system, including example code. It could be helpful for understanding ownership concepts.\r\n\r\n* Update src/data/roadmaps/rust/content/100-introduction/102-memory-safety.md\r\n\r\n---------\r\n\r\nCo-authored-by: dsh <daniel.s.holdsworth@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "sivarajakani"
+      }
+    },
+    {
+      "sha": "c7e483c384d2dac349a7dea46574db977306e40d",
+      "commit": {
+        "author": {
+          "name": "Obiechina Emmanuel",
+          "email": "94564639+chibuike-19@users.noreply.github.com",
+          "date": "2024-10-11T00:17:12",
+          "login": null
+        },
+        "message": "Add content to AI Engineer roadmap (#7349)\n\n* Added content to custom-validators topic\r\n\r\n* Added contents to 10 git & github topics\r\n\r\n* Apply suggestions from code review\r\n\r\nstyling clean up\r\n\r\n* Added contents to 10 git and github topics\r\n\r\n* Update src/data/roadmaps/git-github/content/committing-changes@2_z3R7seCvQVj-Na4H1SV.md\r\n\r\n* Update src/data/roadmaps/git-github/content/creating-account@i7fIIHcBEk473te8bniJ5.md\r\n\r\n* Update src/data/roadmaps/git-github/content/creating-branch@OegitQ5Ngjvd3ZfMpfrkM.md\r\n\r\n* Update src/data/roadmaps/git-github/content/creating-repositories@c_FO6xMixrrMo6iisfsvl.md\r\n\r\n* Update src/data/roadmaps/git-github/content/deleting-branch@1uDenoQ6zu7CT69FR2iQB.md\r\n\r\n* Update src/data/roadmaps/git-github/content/fast-forward-vs-non-ff@agtPWS8j6i6wQPk10cy8E.md\r\n\r\n* Update src/data/roadmaps/git-github/content/forking-vs-cloning@l1Wf7Pe_ah8ycCgslfSK4.md\r\n\r\n* Update src/data/roadmaps/git-github/content/git-rebase@HMEfUFNu_Wp_Pac7VWHr-.md\r\n\r\n* Added contents to 7 git and github topics\r\n\r\n* added content to 10 redis topics\r\n\r\n* Revert changes to src/app.js from commit abc1234\r\n\r\n* Added contents to 5 Ai engineer roadmap topics\r\n\r\n* Update src/data/roadmaps/ai-engineer/content/ai-agents@9XCxilAQ7FRet7lHQr1gE.md\r\n\r\nCo-authored-by: Kamran Ahmed <kamranahmed.se@gmail.com>\r\n\r\n* Update src/data/roadmaps/ai-engineer/content/ai-code-editors@XcKeQfpTA5ITgdX51I4y-.md\r\n\r\nCo-authored-by: Kamran Ahmed <kamranahmed.se@gmail.com>\r\n\r\n* Update src/data/roadmaps/ai-engineer/content/chroma@dSd2C9lNl-ymmCRT9_ZC3.md\r\n\r\nCo-authored-by: Kamran Ahmed <kamranahmed.se@gmail.com>\r\n\r\n* updated content of adding-end-user-ids\r\n\r\n* Update src/data/roadmaps/ai-engineer/content/adding-end-user-ids-in-prompts@4Q5x2VCXedAWISBXUIyin.md\r\n\r\n* Update src/data/roadmaps/ai-engineer/content/agents-usecases@778HsQzTuJ_3c9OSn5DmH.md\r\n\r\n* Update src/data/roadmaps/ai-engineer/content/agents-usecases@778HsQzTuJ_3c9OSn5DmH.md\r\n\r\n---------\r\n\r\nCo-authored-by: dsh <daniel.s.holdsworth@gmail.com>\r\nCo-authored-by: Kamran Ahmed <kamranahmed.se@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "chibuike-19"
+      }
+    },
+    {
+      "sha": "75ab1ba89c3145df8b82ea66a01d9eb2876c5800",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-10T14:21:42",
+          "login": null
+        },
+        "message": "Add ec2 instance project idea"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "44562b6a1ed0f479cf623be3eabc1f625618c457",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-10T14:02:14",
+          "login": null
+        },
+        "message": "Add new project idea"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "10dfd37d402087a2b2a3ec2b79d5ab2bbb49f376",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-10T11:03:57",
+          "login": null
+        },
+        "message": "Add new project ideas for deployment and service discovery"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "8beb9754bae005870e342fb7614c7d7011b1e5d9",
+      "commit": {
+        "author": {
+          "name": "dsh",
+          "email": "daniel.s.holdsworth@gmail.com",
+          "date": "2024-10-10T13:26:43",
+          "login": null
+        },
+        "message": "Add articles for machine learning (#7427)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "dansholds"
+      }
+    },
+    {
+      "sha": "788825fb7586c525cda8356bb07c3cd4b94910d4",
+      "commit": {
+        "author": {
+          "name": "Vedansh",
+          "email": "superuser.ntsystems@outlook.com",
+          "date": "2024-10-10T11:22:16",
+          "login": null
+        },
+        "message": "Improve AWS Roadmap (#7403)\n\n* RDS\r\n\r\n* DynamoDB.\r\n\r\n* ECS\r\n\r\n* Lambda\r\n\r\n* Final Phase."
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "offensive-vk"
+      }
+    },
+    {
+      "sha": "8535c6eef2d1fb7e677a0577baa91e590eb1eba2",
+      "commit": {
+        "author": {
+          "name": "Vedansh",
+          "email": "superuser.ntsystems@outlook.com",
+          "date": "2024-10-10T11:21:29",
+          "login": null
+        },
+        "message": "Improve AWS Roadmap (#7401)\n\n* SES\r\n\r\n* S3\r\n\r\n* Route 53\r\n\r\n* Cloudwatch\r\n\r\n* Cloudfront"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "offensive-vk"
+      }
+    },
+    {
+      "sha": "78a642f8bd7e95057e6cdd16c6815194433d0b35",
+      "commit": {
+        "author": {
+          "name": "Vedansh",
+          "email": "superuser.ntsystems@outlook.com",
+          "date": "2024-10-10T11:21:03",
+          "login": null
+        },
+        "message": "Improve AWS Roadmap content (#7400)\n\n* Introduction.\r\n\r\n* EC2.\r\n\r\n* VPC\r\n\r\n* IAM\r\n\r\n* Autoscaling."
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "offensive-vk"
+      }
+    },
+    {
+      "sha": "5b29181d954663f808268e45386cfa99dfd4b4f2",
+      "commit": {
+        "author": {
+          "name": "dsh",
+          "email": "daniel.s.holdsworth@gmail.com",
+          "date": "2024-10-10T11:19:20",
+          "login": null
+        },
+        "message": "removed duplicate subtopic, replaced content, shifted nodes up (#7424)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "dansholds"
+      }
+    },
+    {
+      "sha": "2571a7c52ec4c8fb0fb79c2642ba0e18796b9917",
+      "commit": {
+        "author": {
+          "name": "Abdul Samad Shaikh",
+          "email": "ss6087982@gmail.com",
+          "date": "2024-10-10T11:19:07",
+          "login": null
+        },
+        "message": "fix superfluous word 'token' when writing JWT (#7426)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "schmeekygeek"
+      }
+    },
+    {
+      "sha": "9b952b9afe76e78804fd1617734cd604afe7bcfe",
+      "commit": {
+        "author": {
+          "name": "Ruslan Semagin",
+          "email": "pixel.365.24@gmail.com",
+          "date": "2024-10-10T10:34:37",
+          "login": null
+        },
+        "message": "Fixed inaccuracies in Redis Roadmaps (#7404)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "pixel365"
+      }
+    },
+    {
+      "sha": "960218235d805d21933c38d0f89f5c92f8e3bff7",
+      "commit": {
+        "author": {
+          "name": "0x009922",
+          "email": "43530070+0x009922@users.noreply.github.com",
+          "date": "2024-10-10T10:31:40",
+          "login": null
+        },
+        "message": "Add links to the free \"Rust Atomics and Locks\" ebook (#7416)\n\n* Add links to the free \"Rust Atomics and Locks\" ebook"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "0x009922"
+      }
+    },
+    {
+      "sha": "ec668a3a0bd5868d9c09d3b308bf6d52db9910b1",
+      "commit": {
+        "author": {
+          "name": "Sparsh",
+          "email": "sendtosparsh@gmail.com",
+          "date": "2024-10-10T10:29:29",
+          "login": null
+        },
+        "message": "Added 2 new course links of Swift programming (#7419)\n\n* Added new course link of 100 days of Swift | Hacking with SwiftUI\r\n\r\n* Added new course link of Swift Programming | Programiz"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "sparshrestha"
+      }
+    },
+    {
+      "sha": "42874aa6c78cacf7aa3682d5a11f4f80f7d3e449",
+      "commit": {
+        "author": {
+          "name": "Patrick Schröder",
+          "email": "mrniceguy.wsf@gmail.com",
+          "date": "2024-10-10T10:27:01",
+          "login": null
+        },
+        "message": "replace broken link (#7421)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "Paschroeder"
+      }
+    },
+    {
+      "sha": "aa1d4c99144bea35bc0beb51f665f3d81daed8d1",
+      "commit": {
+        "author": {
+          "name": "Robiul Hossain",
+          "email": "robiulhossain7475@gmail.com",
+          "date": "2024-10-10T10:13:07",
+          "login": null
+        },
+        "message": "Devops Roadmap: GitHub action & nginx resource added (#7350)\n\n* feat: add a course video to github actions in devops\r\n\r\n* feat: add an nginx setup article to nginx in devops\r\n\r\n* fix: github action certification video starting point in github action of devops roadmap"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "coder7475"
+      }
+    },
+    {
+      "sha": "5e0ff6c78001c19a9848e543fe272156fcb7897a",
+      "commit": {
+        "author": {
+          "name": "github-actions[bot]",
+          "email": "41898282+github-actions[bot]@users.noreply.github.com",
+          "date": "2024-10-10T03:12:16",
+          "login": null
+        },
+        "message": "chore: update roadmap content json (#7415)\n\nCo-authored-by: kamranahmedse <4921183+kamranahmedse@users.noreply.github.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "github-actions[bot]"
+      }
+    },
+    {
+      "sha": "9b14b2d60a3ab5d8de4981148305261a02e31cf1",
+      "commit": {
+        "author": {
+          "name": "Roman",
+          "email": "roma.physicist@gmail.com",
+          "date": "2024-10-09T17:45:00",
+          "login": null
+        },
+        "message": "fix: replace duplicated link in Introduction to TypeScript content (#7406)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "rbereziuk"
+      }
+    },
+    {
+      "sha": "9c73a476c303f87e9a4bca0e9f9d5f02320e2512",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-09T16:00:04",
+          "login": null
+        },
+        "message": "Add prometheus project"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "c336b85a0a91fb48f0f3a81e2e943589877aede0",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-09T14:31:16",
+          "login": null
+        },
+        "message": "Add automated backups project"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "e3694f4e36ff2708226fa5976e7f5af0bdab2246",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-09T13:58:50",
+          "login": null
+        },
+        "message": "Add multi-container project idea"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "801556d515730bf7add5d8cb944a161b12bcce41",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-09T13:30:37",
+          "login": null
+        },
+        "message": "Update sorting"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "900b618f66c31c9fc6a131ea812937111b34d336",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-09T13:23:53",
+          "login": null
+        },
+        "message": "Add dockerized service project idea"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "ea7b55cb6423ff338c45e62a22dbd973a541fe9c",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-09T11:54:25",
+          "login": null
+        },
+        "message": "Add project"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "8f8cca4be38c5d8658de6a7dec484a82194dddce",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-09T11:18:56",
+          "login": null
+        },
+        "message": "Add new projects for devops roadmap"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "63004475aacb91cbd6434177ba626cd8148880c7",
+      "commit": {
+        "author": {
+          "name": "Vedansh",
+          "email": "superuser.ntsystems@outlook.com",
+          "date": "2024-10-09T10:36:51",
+          "login": null
+        },
+        "message": "Improve Go Roadmap (#7399)\n\n* Go Basics.\r\n\r\n* Go Advanced.\r\n\r\n* 102,103,104,105,106\r\n\r\n* Everything Else."
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "offensive-vk"
+      }
+    },
+    {
+      "sha": "fae4899a2cd1427e1563a1d979d81e934d2bc774",
+      "commit": {
+        "author": {
+          "name": "Akhilesh Rawat",
+          "email": "akhileshrawat.asr@gmail.com",
+          "date": "2024-10-09T10:19:16",
+          "login": null
+        },
+        "message": "Update v-html@bZxtIBeIfeUcR32LZWrPW.md - v-html,HTML typo fix (#7394)\n\nFixed typos \"v-thml\" and \"HTMl\" to \"v-html\" and \"HTML\" respectively."
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "Akku-Rawat"
+      }
+    },
+    {
+      "sha": "f34f6a280cfceede2045dcde6f451723c71514f4",
+      "commit": {
+        "author": {
+          "name": "Brian Rodriguez",
+          "email": "rzknairb@gmail.com",
+          "date": "2024-10-09T10:18:48",
+          "login": null
+        },
+        "message": "[Update] software architect: Agile model (#7391)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "brodriro"
+      }
+    },
+    {
+      "sha": "cad104a413dc1bac8a55b9e179ba4acdf0d1709a",
+      "commit": {
+        "author": {
+          "name": "Roy Straub",
+          "email": "roy@codecraftr.nl",
+          "date": "2024-10-09T10:17:55",
+          "login": null
+        },
+        "message": "Corrects the CQS article (#7396)\n\n* Improved CQS article\r\n\r\nThe previous article referred to a broader, architectural pattern of CQRS, which are not the same\r\n\r\n* Update src/data/roadmaps/software-design-architecture/content/100-clean-code-principles/113-command-query-separation.md\r\n\r\nremoved extra bracket.\r\n\r\n---------\r\n\r\nCo-authored-by: dsh <daniel.s.holdsworth@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "rstraub"
+      }
+    },
+    {
+      "sha": "29d3b26fe4261baddce7b6fbfb5b874a9fa24337",
+      "commit": {
+        "author": {
+          "name": "Himanshu Jangid, हिमांशु जाँगिड़",
+          "email": "himanshujhar@gmail.com",
+          "date": "2024-10-09T09:26:07",
+          "login": null
+        },
+        "message": "Add content for game-mathematics (#7307)\n\n* Update game-mathematics, add one of the most best free books for learning game math\r\n\r\nMultiple mathematics books specifically target game math but this is one of the best yet free.\r\n\r\n* fix: resource formatting\r\n\r\n---------\r\n\r\nCo-authored-by: Arik Chakma <arikchangma@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "himanshurajora"
+      }
+    },
+    {
+      "sha": "6de4a36dd4fa5acb35ad56eb1b5448f84d64515d",
+      "commit": {
+        "author": {
+          "name": "Ruslan Semagin",
+          "email": "pixel.365.24@gmail.com",
+          "date": "2024-10-09T09:14:23",
+          "login": null
+        },
+        "message": "feat: add useful links for Rust (#7397)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "pixel365"
+      }
+    },
+    {
+      "sha": "c8d8b75c312433261eab550ceeaa264f98ca0cf0",
+      "commit": {
+        "author": {
+          "name": "Ruslan Semagin",
+          "email": "pixel.365.24@gmail.com",
+          "date": "2024-10-09T09:13:03",
+          "login": null
+        },
+        "message": "feat: add Leptos Web Framework to Web Development (#7398)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "pixel365"
+      }
+    },
+    {
+      "sha": "25661736ff4c72e54ee4cc8704722eac7a1879c0",
+      "commit": {
+        "author": {
+          "name": "github-actions[bot]",
+          "email": "41898282+github-actions[bot]@users.noreply.github.com",
+          "date": "2024-10-09T09:11:29",
+          "login": null
+        },
+        "message": "chore: update roadmap content json (#7377)\n\nCo-authored-by: kamranahmedse <4921183+kamranahmedse@users.noreply.github.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "github-actions[bot]"
+      }
+    },
+    {
+      "sha": "31dffa82c5e658f425afebfe6313f8e82691576f",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-09T01:15:12",
+          "login": null
+        },
+        "message": "Add server stats project"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "473366f3ca634cf02d550812542ecab5088aa778",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-08T23:24:12",
+          "login": null
+        },
+        "message": "Add dummy service project ideas"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "01e366cbac6484cb3dbc744dee831922ce6a06a4",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-08T22:22:07",
+          "login": null
+        },
+        "message": "Add monitoring dashboard idea"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "69f350ef855f94819f981171d16abaaa02c3d10a",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-08T21:18:36",
+          "login": null
+        },
+        "message": "Add new projects for devops roadmap"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "ccb389048417d6d0173db08e4063855dc8322807",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-08T15:17:19",
+          "login": null
+        },
+        "message": "Update project description"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "10af26eed63b1ebefdc0a028333fbd1881607811",
+      "commit": {
+        "author": {
+          "name": "FerPlej",
+          "email": "pieter1993@wp.pl",
+          "date": "2024-10-08T18:48:40",
+          "login": null
+        },
+        "message": "feat: remove link in Hindi (#7387)\n\nCo-authored-by: Piotr Pietryga <piotr.j.pietryga@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "FerPlej"
+      }
+    },
+    {
+      "sha": "9ec855fb15dfa188b6e65aa708a94424f0e86020",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-08T13:25:51",
+          "login": null
+        },
+        "message": "Add github actions workflow task"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "ae7ea40f7478dd567234ede1ed25c681a47438e3",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-08T11:53:18",
+          "login": null
+        },
+        "message": "Add nginx log analyzer"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "4125c28f5a4fcd252eb8e1432c627721acfb7822",
+      "commit": {
+        "author": {
+          "name": "Mark",
+          "email": "mac21macky@gmail.com",
+          "date": "2024-10-08T11:59:41",
+          "login": null
+        },
+        "message": "Feat/postgres roadmap add new links group by (#7378)\n\n* Add new links for group by for PostgreSQL\r\n\r\n* Update article name\r\n\r\n* Update src/data/roadmaps/postgresql-dba/content/grouping@uwd_CaeHQQ3ZWojbmtbPh.md\r\n\r\n---------\r\n\r\nCo-authored-by: dsh <daniel.s.holdsworth@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "MacMacky"
+      }
+    },
+    {
+      "sha": "912e7d7a5614f7da0e070921dd40195e80d0c98a",
+      "commit": {
+        "author": {
+          "name": "Robiul Hossain",
+          "email": "robiulhossain7475@gmail.com",
+          "date": "2024-10-08T11:55:41",
+          "login": null
+        },
+        "message": "Adding api design roadmap resources (#7373)\n\n* feat: add a resource link to api designs basics of dns topic\r\n\r\n* feat: add a resource link to api designs restful apis topic\r\n\r\n* Update src/data/roadmaps/api-design/content/basics-of-dns@v4nJYD9yiIEUviLPhVTCD.md\r\n\r\n---------\r\n\r\nCo-authored-by: dsh <daniel.s.holdsworth@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "coder7475"
+      }
+    },
+    {
+      "sha": "11cb5caafca0e1ee9a1aa872d37c75978525a09f",
+      "commit": {
+        "author": {
+          "name": "Tejaswi Tyagi",
+          "email": "98461855+tejaswi0910@users.noreply.github.com",
+          "date": "2024-10-08T11:51:34",
+          "login": null
+        },
+        "message": "Added content to blank Java Advanced Topics index.md file (#7371)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "tejaswi0910"
+      }
+    },
+    {
+      "sha": "34c951b619ef8ba0e408e17f6ae4a0c32a785ff8",
+      "commit": {
+        "author": {
+          "name": "Krushna Kanta Rout",
+          "email": "129386740+krushnarout@users.noreply.github.com",
+          "date": "2024-10-08T11:48:16",
+          "login": null
+        },
+        "message": "Feat: Added Resources, Improvements, and Typo Fixes for Full Stack Roadmap (#7369)\n\n* feat: add video for restful api\r\n\r\n* feat: add documentationfor redis\r\n\r\n* feat: add dedicated roadmap\r\n\r\n* fix: add website names\r\n\r\n* feat: add official website of monit\r\n\r\n* fix: replace article with official\r\n\r\n* fix: change feed link github to github-actions\r\n\r\n* fix: add taiwind css"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "krushnarout"
+      }
+    },
+    {
+      "sha": "fe9162296e910816800e2d2dd0891a972a495fb0",
+      "commit": {
+        "author": {
+          "name": "Murshal Akhtar Ansari",
+          "email": "iammursal@gmail.com",
+          "date": "2024-10-08T11:46:16",
+          "login": null
+        },
+        "message": "roadmap: added resource links in DSA for selection and heap sort (#7368)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "iammursal"
+      }
+    },
+    {
+      "sha": "b282129eabb1fa879b7aaec0840c67557afd98df",
+      "commit": {
+        "author": {
+          "name": "Arunabha-NOTE",
+          "email": "arunabham2017@gmail.com",
+          "date": "2024-10-08T11:44:01",
+          "login": null
+        },
+        "message": "Update devops-principles.md (#7365)\n\nFixed typo and incomplete link in the 9th section for cncf.io"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "Arunabha-NOTE"
+      }
+    },
+    {
+      "sha": "6e1e045773bc1dbea4841d88ca8ca01631cefb23",
+      "commit": {
+        "author": {
+          "name": "lerethel",
+          "email": "32931827+lerethel@users.noreply.github.com",
+          "date": "2024-10-08T11:43:12",
+          "login": null
+        },
+        "message": "Update 101-big-theta.md (#7364)\n\n* Update 101-big-theta.md\r\n\r\nReplace 'Theta' with 'θ' where applicable and remove unnecessary escaping\r\n\r\n* Update 101-big-theta.md\r\n\r\nRemove unnecessary parentheses"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "lerethel"
+      }
+    },
+    {
+      "sha": "191ca24c93bc351cdbcb77ea764a07e17f6cb723",
+      "commit": {
+        "author": {
+          "name": "Youssef Hassan",
+          "email": "joehsn@outlook.com",
+          "date": "2024-10-08T11:40:49",
+          "login": null
+        },
+        "message": "Link refers to SQL Roadmap under 'Learn SQL' topic in 'PostgreSQL DBA' (#7363)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "joehsn"
+      }
+    },
+    {
+      "sha": "9487a2947b2f6c53787c431c20b9f64151dc5580",
+      "commit": {
+        "author": {
+          "name": "Mark",
+          "email": "mac21macky@gmail.com",
+          "date": "2024-10-08T11:36:53",
+          "login": null
+        },
+        "message": "Fix relational database app daily dev link in postgres roadmap (#7379)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "MacMacky"
+      }
+    },
+    {
+      "sha": "4a45c0b6b16067bb750e85bf9d091a54db555ae3",
+      "commit": {
+        "author": {
+          "name": "Brian Rodriguez",
+          "email": "rzknairb@gmail.com",
+          "date": "2024-10-08T11:20:22",
+          "login": null
+        },
+        "message": "[Update] software architect: PMI & RUP (#7341)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "brodriro"
+      }
+    },
+    {
+      "sha": "099ec78cca972bcc8316a5abe126da2c0a367671",
+      "commit": {
+        "author": {
+          "name": "vansh kabra",
+          "email": "134841334+VANSH3104@users.noreply.github.com",
+          "date": "2024-10-08T11:15:57",
+          "login": null
+        },
+        "message": "add new references to learn component lifecycles (#7319)\n\n* add new references to learn component lifecycles\r\n\r\n* add new references to learn component lifecycles and update official at top\r\n\r\n* add new references to learn component lifecycles and place the main link in link section"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "VANSH3104"
+      }
+    },
+    {
+      "sha": "c565fb5e0aa15c627c81e034d0e9ba5f1b9f38c6",
+      "commit": {
+        "author": {
+          "name": "Vedansh",
+          "email": "superuser.ntsystems@outlook.com",
+          "date": "2024-10-08T10:51:52",
+          "login": null
+        },
+        "message": "Improve python roadmap (#7323)\n\n* 18 Topics Verified.\r\n\r\n* 19 Topics Verified.\r\n\r\n* 21 Topics Verified.\r\n\r\n* 12 Topics Verified."
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "offensive-vk"
+      }
+    },
+    {
+      "sha": "2db1bce35bd6e839d9a6b045016f9bd5d6e72aaa",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-08T10:50:32",
+          "login": null
+        },
+        "message": "Remove new badge from old guides"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "53cda20ddba4a9bff136a15818a939a8544007b9",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-08T10:50:23",
+          "login": null
+        },
+        "message": "Highlight official roadmaps, add changelog"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "e3224cb7b1834aedcb2b54a48eec58415a1843cd",
+      "commit": {
+        "author": {
+          "name": "adnn-alc",
+          "email": "33813588+adnn-alc@users.noreply.github.com",
+          "date": "2024-10-07T11:48:44",
+          "login": null
+        },
+        "message": "Add content for pre-trained models (#7370)\n\n* Update pre-trained-models\r\n\r\n* Update src/data/roadmaps/ai-engineer/content/pre-trained-models@d7fzv_ft12EopsQdmEsel.md\r\n\r\n---------\r\n\r\nCo-authored-by: Kamran Ahmed <kamranahmed.se@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "adnn-alc"
+      }
+    },
+    {
+      "sha": "8b0c53675075bef3333558f6e6ae7be07220a837",
+      "commit": {
+        "author": {
+          "name": "Arik Chakma",
+          "email": "arikchangma@gmail.com",
+          "date": "2024-10-07T11:47:54",
+          "login": null
+        },
+        "message": "feat: team dashboard (#7213)\n\n* fix: add team roadmaps\r\n\r\n* feat: implement add member\r\n\r\n* feat: separate team dashboard page\r\n\r\n* UI changes for team dashboard\r\n\r\n* Add team activity dashboard\r\n\r\n---------\r\n\r\nCo-authored-by: Kamran Ahmed <kamranahmed.se@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "arikchakma"
+      }
+    },
+    {
+      "sha": "3f7e50907ae54c74b33fffe14da63a9c75044a4e",
+      "commit": {
+        "author": {
+          "name": "dsh",
+          "email": "daniel.s.holdsworth@gmail.com",
+          "date": "2024-10-07T10:31:26",
+          "login": null
+        },
+        "message": "Add redis roadmap content (#7229)\n\n* 24 topics\r\n\r\n* 9 topics\r\n\r\n* remove experimental androud additions\r\n\r\n* 66 topics, no links\r\n\r\n* 51 topics, need to add links\r\n\r\n* add links to 50+ topics\r\n\r\n* add links to 10+ topics\r\n\r\n* final changes\r\n\r\n* Update src/data/roadmaps/redis/content/pubsub@9W_jaK1DSEZHRKdPcUM7h.md\r\n\r\n* Update src/data/roadmaps/redis/content/redis-enterprise@8lyXDuZJ-KHl4v2_8Ew1h.md\r\n\r\n* Update src/data/roadmaps/redis/content/redis-modules@hLIT00Iz7rV56ZBIUhWYn.md\r\n\r\n---------\r\n\r\nCo-authored-by: Kamran Ahmed <kamranahmed.se@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "dansholds"
+      }
+    },
+    {
+      "sha": "01c2b90cc2295bb63214f218403f66504aa340e8",
+      "commit": {
+        "author": {
+          "name": "github-actions[bot]",
+          "email": "41898282+github-actions[bot]@users.noreply.github.com",
+          "date": "2024-10-06T23:46:57",
+          "login": null
+        },
+        "message": "chore: update roadmap content json (#7353)\n\nCo-authored-by: kamranahmedse <4921183+kamranahmedse@users.noreply.github.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "github-actions[bot]"
+      }
+    },
+    {
+      "sha": "55218ea85ac78a5da72a9f33ee064322900807ad",
+      "commit": {
+        "author": {
+          "name": "Arik Chakma",
+          "email": "arikchangma@gmail.com",
+          "date": "2024-10-06T00:45:55",
+          "login": null
+        },
+        "message": "feat: add open source link type (#7351)\n\n* feat: add open source link type\r\n\r\n* fix: capitalize link type"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "arikchakma"
+      }
+    },
+    {
+      "sha": "c894430a86c1db5d9d1665b00f075bd121870f5b",
+      "commit": {
+        "author": {
+          "name": "Arik Chakma",
+          "email": "arikchangma@gmail.com",
+          "date": "2024-10-05T04:53:42",
+          "login": null
+        },
+        "message": "fix: bcrypt open source link (#7344)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "arikchakma"
+      }
+    },
+    {
+      "sha": "f876ba8df585721859ab368779af65100114a4b2",
+      "commit": {
+        "author": {
+          "name": "github-actions[bot]",
+          "email": "41898282+github-actions[bot]@users.noreply.github.com",
+          "date": "2024-10-05T03:52:41",
+          "login": null
+        },
+        "message": "chore: update roadmap content json (#7339)\n\nCo-authored-by: kamranahmedse <4921183+kamranahmedse@users.noreply.github.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "github-actions[bot]"
+      }
+    },
+    {
+      "sha": "c26fb97bc72e5a817b7d1e0728f76245b81882c1",
+      "commit": {
+        "author": {
+          "name": "Jean-François Greffier",
+          "email": "jfgreffier@users.noreply.github.com",
+          "date": "2024-10-04T17:41:47",
+          "login": null
+        },
+        "message": "Use react.dev for links (#7332)\n\n* Update useCallback with new React website\r\n\r\n* Update links with new React website"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "jfgreffier"
+      }
+    },
+    {
+      "sha": "3b1cc914056f210b6e14f2804d3fdaeac32d7939",
+      "commit": {
+        "author": {
+          "name": "Koki Kazaore",
+          "email": "94179722+Koki-Kazaore@users.noreply.github.com",
+          "date": "2024-10-04T13:31:53",
+          "login": null
+        },
+        "message": "update index.md of 101-ec2 dir (#7329)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "Koki-Kazaore"
+      }
+    },
+    {
+      "sha": "5a49ad45bea813ed0664f9c739ecc1921754b529",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-04T10:59:48",
+          "login": null
+        },
+        "message": "Remove best practices"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "be221a2b14c621755be52f51d1ec0b9681aa972c",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-04T10:31:36",
+          "login": null
+        },
+        "message": "Remove content from AI engineer roadmap"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "6461ccaf5982fd69ea53fbca9f52c23053221654",
+      "commit": {
+        "author": {
+          "name": "Satyam Vyas",
+          "email": "vyas.satyam.04@gmail.com",
+          "date": "2024-10-04T08:25:28",
+          "login": null
+        },
+        "message": "Fix: Added content for Prompt Engineering: Prompt Hacking (#7318)\n\n* fix: added content for Prompt Hacking\r\n\r\n* fix: formatted the roadmap content according to the guidelines"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "SatyamVyas04"
+      }
+    },
+    {
+      "sha": "aa76db78daea5f66198eca6404d267b942816bae",
+      "commit": {
+        "author": {
+          "name": "Robiul Hossain",
+          "email": "robiulhossain7475@gmail.com",
+          "date": "2024-10-04T08:18:37",
+          "login": null
+        },
+        "message": "Devops roadmap: add resources links (#7317)\n\n* feat: add a article for nginx as reverse proxy in devops roadmap\r\n\r\n* feat: add nginx as load balancer article in devops roadmap\r\n\r\n* feat: add a ufw filewall blog for fiirewall resources in devops roadmap"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "coder7475"
+      }
+    },
+    {
+      "sha": "c40cda13d818e07493c05fa6bad7a7d97e4aefc9",
+      "commit": {
+        "author": {
+          "name": "github-actions[bot]",
+          "email": "41898282+github-actions[bot]@users.noreply.github.com",
+          "date": "2024-10-04T01:55:48",
+          "login": null
+        },
+        "message": "chore: update roadmap content json (#7322)\n\nCo-authored-by: kamranahmedse <4921183+kamranahmedse@users.noreply.github.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "github-actions[bot]"
+      }
+    },
+    {
+      "sha": "487145b9a42c34dc48d6d9bca303cbdeebe3f959",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-03T22:33:27",
+          "login": null
+        },
+        "message": "UI redesign for invite page"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "cc817b060cd9e7927d8f71979a94b5763d96b5b5",
+      "commit": {
+        "author": {
+          "name": "Arik Chakma",
+          "email": "arikchangma@gmail.com",
+          "date": "2024-10-03T22:07:21",
+          "login": null
+        },
+        "message": "feat: add referral user count (#7233)\n\n* feat: add referral user count\r\n\r\n* feat: add referrals leaderboard\r\n\r\n* fix: update UI\r\n\r\n* Update referral design\r\n\r\n* Update invite friends UI\r\n\r\n* Add leaderboard page\r\n\r\n* Update leaderboard page\r\n\r\n---------\r\n\r\nCo-authored-by: Kamran Ahmed <kamranahmed.se@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "arikchakma"
+      }
+    },
+    {
+      "sha": "06c242cf323c65e82db260afd549f693bdf2a038",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-03T14:27:57",
+          "login": null
+        },
+        "message": "Add AI engineer roadmap content"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "5b09e61b86de9cbb9de115728c479c821b5781fb",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-03T13:46:50",
+          "login": null
+        },
+        "message": "Add content to AI Engineer roadmap"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "a3fedad816d12c45f489a2406f0ebab15573a25a",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-03T13:02:31",
+          "login": null
+        },
+        "message": "Add content to AI Engineer roadmap"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "338f6c5d4a05e451e5830c96f963d36daa82dcc4",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-03T11:33:01",
+          "login": null
+        },
+        "message": "Add AI Engineer roadmap content"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "9d6d77f93e9faa3b50bb16ec5c42d972415d9754",
+      "commit": {
+        "author": {
+          "name": "Robiul Hossain",
+          "email": "robiulhossain7475@gmail.com",
+          "date": "2024-10-03T14:27:42",
+          "login": null
+        },
+        "message": "feat: remove the packag-lock.json file from commit (#7301)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "coder7475"
+      }
+    },
+    {
+      "sha": "f4c717b9582faadd971897153254bed7eb3f68b4",
+      "commit": {
+        "author": {
+          "name": "mitch edwards // valhalla_dev",
+          "email": "34898405+vikingSec@users.noreply.github.com",
+          "date": "2024-10-03T14:25:37",
+          "login": null
+        },
+        "message": "Addition of the poem library to web-development as well as the file-parsing topic (#7291)\n\nCopy and links added to a few Rust topics.\r\n\r\n---------\r\n\r\nCo-authored-by: dsh <daniel.s.holdsworth@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "vikingSec"
+      }
+    },
+    {
+      "sha": "65fe7aeb71cc7466e03abb95e26ef39cd9e91d11",
+      "commit": {
+        "author": {
+          "name": "Berkcan Gümüşışık",
+          "email": "75336900+berkcangumusisik@users.noreply.github.com",
+          "date": "2024-10-03T14:23:45",
+          "login": null
+        },
+        "message": "Python resources added. (#7293)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "berkcangumusisik"
+      }
+    },
+    {
+      "sha": "1d0e65c2c8642765f0e341a37acba06ea1bbb2b9",
+      "commit": {
+        "author": {
+          "name": "Aryan Chaurasia",
+          "email": "36154235+kulterryan@users.noreply.github.com",
+          "date": "2024-10-03T14:20:48",
+          "login": null
+        },
+        "message": "Added content for KV database (#7295)\n\n* Update key-value-database@l2aXyO3STnhbFjvUXPpm2.md\r\n\r\nAdded content for KV database\r\n\r\n* Update src/data/roadmaps/redis/content/key-value-database@l2aXyO3STnhbFjvUXPpm2.md\r\n\r\n---------\r\n\r\nCo-authored-by: dsh <daniel.s.holdsworth@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kulterryan"
+      }
+    },
+    {
+      "sha": "421133ecc2ae690fa1965aaa31b6b164a6103443",
+      "commit": {
+        "author": {
+          "name": "Vedansh",
+          "email": "superuser.ntsystems@outlook.com",
+          "date": "2024-10-03T14:16:07",
+          "login": null
+        },
+        "message": "Improved Frontend Roadmap (#7298)\n\n* Phase - 1\r\n\r\n* Phase - 2\r\n\r\n* Phase - 3\r\n\r\n* Phase - 4\r\n\r\n* Phase - 5\r\n\r\n* Phase - 6\r\n\r\n* Phase - 7\r\n\r\n* Apply suggestions from code review\r\n\r\n---------\r\n\r\nCo-authored-by: dsh <daniel.s.holdsworth@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "offensive-vk"
+      }
+    },
+    {
+      "sha": "346c63001986629e9d7c9f93ce2fb2c8761045d9",
+      "commit": {
+        "author": {
+          "name": "joel1st",
+          "email": "joel_1st@hotmail.com",
+          "date": "2024-10-03T13:54:44",
+          "login": null
+        },
+        "message": "Update hashing--encryption--encoding@7r7o8pYhFHVAJIv0wNT6X.md (#7315)\n\nCollisions are possible with hashes & lossless (which would be the case with text) encoding/decoding does not have issues with collisions."
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "joel1st"
+      }
+    },
+    {
+      "sha": "3b929e45d28cbcf3d9c9a6f0f7b9309aad07f6fd",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-03T11:27:31",
+          "login": null
+        },
+        "message": "Add AI Engineer roadmap PDF"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "2bef597ced6c5f0e8cd4ccbc3690d22c3f95dcc3",
+      "commit": {
+        "author": {
+          "name": "Satyam Vyas",
+          "email": "vyas.satyam.04@gmail.com",
+          "date": "2024-10-03T07:48:08",
+          "login": null
+        },
+        "message": "Improved Content in Prompt Hacking (#7308)\n\n* Update index.md\r\n\r\n* Update src/data/roadmaps/prompt-engineering/content/107-prompt-hacking/index.md\r\n\r\n---------\r\n\r\nCo-authored-by: Kamran Ahmed <kamranahmed.se@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "SatyamVyas04"
+      }
+    },
+    {
+      "sha": "1219b9e9051d96e026b379223894f86f0b998d6d",
+      "commit": {
+        "author": {
+          "name": "Vedansh",
+          "email": "superuser.ntsystems@outlook.com",
+          "date": "2024-10-03T02:35:01",
+          "login": null
+        },
+        "message": "fix: devops os broken link (#7306)"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "offensive-vk"
+      }
+    },
+    {
+      "sha": "87ef708da36a4454f32a8c978599e7eecd279b9e",
+      "commit": {
+        "author": {
+          "name": "Hashir V",
+          "email": "82193429+hashirventhodi@users.noreply.github.com",
+          "date": "2024-10-02T14:17:22",
+          "login": null
+        },
+        "message": "Add content for axum (#7299)\n\n* Update 104-axum.md\r\n\r\n* Update src/data/roadmaps/rust/content/108-web-development/104-axum.md\r\n\r\n---------\r\n\r\nCo-authored-by: dsh <daniel.s.holdsworth@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "hashirventhodi"
+      }
+    },
+    {
+      "sha": "0643e86514f84f8c4bc461c7c655e799bc2fc1cb",
+      "commit": {
+        "author": {
+          "name": "github-actions[bot]",
+          "email": "41898282+github-actions[bot]@users.noreply.github.com",
+          "date": "2024-10-02T03:41:10",
+          "login": null
+        },
+        "message": "chore: update roadmap content json (#7292)\n\nCo-authored-by: kamranahmedse <4921183+kamranahmedse@users.noreply.github.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "github-actions[bot]"
+      }
+    },
+    {
+      "sha": "814b819195cb2d1412e3416e5db4050bfeda1e33",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-01T20:37:32",
+          "login": null
+        },
+        "message": "Leaderboard page UI"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "9f2efc5872893e9cf27840bdb8848b37396a063a",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-01T18:31:04",
+          "login": null
+        },
+        "message": "UI for leaderboard"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "55f0eff569777f768e8ba47b89bc024f96989e90",
+      "commit": {
+        "author": {
+          "name": "Arik Chakma",
+          "email": "arikchangma@gmail.com",
+          "date": "2024-10-01T17:55:13",
+          "login": null
+        },
+        "message": "feat: add github contributors leaderboard (#7277)\n\n* feat: add github contributors leaderboard\r\n\r\n* Improve UI for leaderboard\r\n\r\n---------\r\n\r\nCo-authored-by: Kamran Ahmed <kamranahmed.se@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "arikchakma"
+      }
+    },
+    {
+      "sha": "47936801fdaacb0a12b90f194ff804f4bb570ec5",
+      "commit": {
+        "author": {
+          "name": "Vedansh",
+          "email": "superuser.ntsystems@outlook.com",
+          "date": "2024-10-01T14:54:15",
+          "login": null
+        },
+        "message": "Improve backend roadmap resources (#7257)\n\n* Phase - A to F\r\n\r\n* Phase - G to M\r\n\r\n* Phase - N to S\r\n\r\n* Phase - S to Z\r\n\r\n* Update src/data/roadmaps/backend/content/bcrypt@dlG1bVkDmjI3PEGpkm1xH.md\r\n\r\nCo-authored-by: dsh <daniel.s.holdsworth@gmail.com>\r\n\r\n* Update src/data/roadmaps/backend/content/caddy@Op-PSPNoyj6Ss9CS09AXh.md\r\n\r\nCo-authored-by: dsh <daniel.s.holdsworth@gmail.com>\r\n\r\n* Update src/data/roadmaps/backend/content/loadshifting@HoQdX7a4SnkFRU4RPQ-D5.md\r\n\r\nCo-authored-by: dsh <daniel.s.holdsworth@gmail.com>\r\n\r\n* Update src/data/roadmaps/backend/content/ms-sql@dEsTje8kfHwWjCI3zcgLC.md\r\n\r\nCo-authored-by: dsh <daniel.s.holdsworth@gmail.com>\r\n\r\n* Update src/data/roadmaps/backend/content/open-api-specs@9cD5ag1L0GqHx4_zxc5JX.md\r\n\r\nCo-authored-by: dsh <daniel.s.holdsworth@gmail.com>\r\n\r\n* Update twelve-factor-apps@8DmabQJXlrT__COZrDVTV.md\r\n\r\n\r\nCo-authored-by: dsh <daniel.s.holdsworth@gmail.com>\r\n\r\n---------\r\n\r\nCo-authored-by: dsh <daniel.s.holdsworth@gmail.com>"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "offensive-vk"
+      }
+    },
+    {
+      "sha": "6b118d14d34b80a882771fb9adf9f64bad940c1e",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-01T14:53:22",
+          "login": null
+        },
+        "message": "Add project status"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    },
+    {
+      "sha": "efbd1d7f049fb383e2ce3da91226dc2edbea5645",
+      "commit": {
+        "author": {
+          "name": "Kamran Ahmed",
+          "email": "kamranahmed.se@gmail.com",
+          "date": "2024-10-01T13:44:55",
+          "login": null
+        },
+        "message": "Project card loading status"
+      },
+      "author": {
+        "name": null,
+        "email": null,
+        "date": null,
+        "login": "kamranahmedse"
+      }
+    }
+  ]
