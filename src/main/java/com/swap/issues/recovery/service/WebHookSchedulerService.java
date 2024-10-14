@@ -4,7 +4,6 @@ import com.swap.issues.recovery.client.webhook_site.WebHookSiteClient;
 import com.swap.issues.recovery.domain.dto.RepositorySnapshotDTO;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 import java.util.concurrent.Executors;
@@ -16,7 +15,6 @@ import java.util.concurrent.TimeUnit;
 @RequiredArgsConstructor
 public class WebHookSchedulerService {
 
-    @Value("${scheduler.webhook-delay:10}")
     private Long delay;
 
     private final WebHookSiteClient webHookSiteClient;
