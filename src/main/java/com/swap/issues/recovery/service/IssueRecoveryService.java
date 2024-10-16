@@ -35,7 +35,6 @@ public class IssueRecoveryService {
         CompletableFuture<List<IssueResponse>> issuesFuture = getIssuesAsync(userName, repositoryName);
         CompletableFuture<List<CommitResponse>> commitsFuture = getCommitsAsync(userName, repositoryName);
 
-        // Combina os resultados e agenda o webhook
         CompletableFuture<RepositorySnapshotDTO> repositorySnapshotFuture = issuesFuture.thenCombine(commitsFuture,
                 (issues, commits) -> RepositorySnapshotMapper.mapToRepositorySnapshotDTO(userName, repositoryName, issues, commits));
 

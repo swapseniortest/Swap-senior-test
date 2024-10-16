@@ -39,23 +39,23 @@ public class LoggingAspect {
 
     @Around("applicationPackagePointcut() && springComponentPointcut()")
     public Object logAround(final ProceedingJoinPoint joinPoint) throws Throwable {
-        var packeageAndClass = formatDeclaringType(joinPoint);
+        var packeageClass = formatDeclaringType(joinPoint);
         var method = joinPoint.getSignature().getName();
         var requestArguments = filterArgs(joinPoint);
 
-        log.info("Iniciando {}.{}() - Argumentos: {}", packeageAndClass, method, requestArguments);
+        log.info("Iniciando {}.{}() - Argumentos: {}", packeageClass, method, requestArguments);
 
         var stopWatch = new StopWatch();
         stopWatch.start();
         try {
             var result = joinPoint.proceed();
             var responseArguments = toJsonResult(maskSensitiveFields(result));
-            log.info("{}.{}() - Resultado: {}", packeageAndClass, method, responseArguments);
+            log.info("{}.{}() - Resultado: {}", packeageClass, method, responseArguments);
             return result;
         } finally {
             stopWatch.stop();
             log.info("Finalizando {}.{}() - Tempo de processamento: {} ms",
-                    packeageAndClass,
+                    packeageClass,
                     method,
                     stopWatch.getTotalTimeMillis()
             );
@@ -84,10 +84,12 @@ public class LoggingAspect {
 
         try {
             for (Field field : obj.getClass().getDeclaredFields()) {
-                field.setAccessible(true);
+                if (!field.getDeclaringClass().getPackageName().startsWith("java.")) {
+                    field.setAccessible(true);
 
-                if (SENSITIVE_DATA.contains(field.getName())) {
-                    field.set(obj, "****");
+                    if (SENSITIVE_DATA.contains(field.getName())) {
+                        field.set(obj, "****");
+                    }
                 }
             }
         } catch (IllegalAccessException | InaccessibleObjectException e) {
