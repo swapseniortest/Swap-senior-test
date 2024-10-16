@@ -1,6 +1,20 @@
 spring:
   application:
     name: issues-recovery
+  datasource:
+    url: jdbc:h2:file:./data/quartzdb
+    driver-class-name: org.h2.Driver
+    username: sa
+    password:
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+  quartz:
+    job-store-type: jdbc  # Usar JDBC JobStore para persistência dos jobs no banco de dados
+    jdbc:
+      initialize-schema: ALWAYS  # Inicializar o esquema de banco de dados do Quartz automaticamente
+
 
 
 logging:
@@ -8,7 +22,7 @@ logging:
     root: INFO
 
 scheduler:
-  webhook-delay: ${WEBHOOK_DELAY:86400}
+  webhook-delay: ${WEBHOOK_DELAY:120}
 
 external-apis:
 
@@ -27,4 +41,4 @@ external-apis:
 
   webhook-site:
     host: "https://webhook.site/"
-    id: ${WEBHOOK_SITE_ID:2bc3a218-9c8a-4ca7-90dd-bbdda7afe2cc}
+    id: ${WEBHOOK_SITE_ID:2eee0978-cf7d-4d88-90e7-0f240918d9a7}

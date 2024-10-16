@@ -1,6 +1,7 @@
 package com.swap.issues.recovery.api.v1;
 
 import com.swap.issues.recovery.api.v1.response.IssueRecoveryResponse;
+import com.swap.issues.recovery.api.v1.response.ScheduleResponse;
 import com.swap.issues.recovery.exception.ApiError;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
@@ -9,6 +10,8 @@ import io.swagger.v3.oas.annotations.media.ExampleObject;
 import io.swagger.v3.oas.annotations.media.Schema;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.tags.Tag;
+
+import java.util.List;
 
 @Tag(name = "GitHub Recovery Issues")
 public interface GitHubSnapshotApi {
@@ -137,4 +140,6 @@ public interface GitHubSnapshotApi {
             })
     IssueRecoveryResponse createSnapShotGitHubIssues(@Parameter(description = "Nome de usuário(owner) do GitHub", required = true) String userName,
                                                      @Parameter(description = "Nome do repositório(publico) do GitHub", required = true) String repositoryName);
+
+    List<ScheduleResponse> listJobs();
 }
