@@ -15,14 +15,12 @@ spring:
     jdbc:
       initialize-schema: ALWAYS  # Inicializar o esquema de banco de dados do Quartz automaticamente
 
-
-
 logging:
   level:
     root: INFO
 
 scheduler:
-  webhook-delay: ${WEBHOOK_DELAY:120}
+  webhook-delay: ${WEBHOOK_DELAY:86400}
 
 external-apis:
 
